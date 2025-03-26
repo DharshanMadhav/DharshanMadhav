@@ -1,4 +1,4 @@
-<h1> Hey there! I'm Amardeep. <img src="Hi.gif" width="25"></h1> <img align="right" alt="GIF" src="gif2.gif" width="400"/> 
+<h1> Hey there! I'm Dharshan Madhavan. <img src="Hi.gif" width="25"></h1> <img align="right" alt="GIF" src="gif2.gif" width="400"/> 
 <h3> 👨🏻‍💻 About Me </h3>
 💼   Full Stack Java Developer specialized in the Spring Boot framework. <br>
 🎓   Currently studying Cloud Computing at York University, Toronto, Canada. <br>
@@ -19,7 +19,7 @@
 
 <p align="left"> 
 &nbsp; <a href="https://www.linkedin.com/in/dharshanmadhavan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="saravanadharshan4@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:saravanadharshan4@gmail.com target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 
 </p>
